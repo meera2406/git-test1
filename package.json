@@ -1,0 +1,15 @@
+{
+  "name": "git-test1",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/meera2406/git-test1"
+  },
+  "author": "shruti bhatt",
+  "license": "ISC"
+}
